@@ -16,3 +16,8 @@
 /composer.lock
 /vendor
 /.php_cs.cache
+/reports/
+/.buildpath
+/.project
+/.settings
+/.gitignore
